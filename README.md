@@ -1,2 +1,3 @@
-# Analisis-Sentimen-Twitter-ParPol
-Analisis Sentimen Twitter Terhadap Partai Politik Indonesia Menggunakan Algoritma Naive Bayes
+# Analisis Sentimen Twitter Terhadap Partai Politik Indonesia Menggunakan Algoritma Naive Bayes
+Penelitian ini dilakukan untuk menganalisis sentimen masyarakat terhadap partai politik di Indonesia melalui Twitter sebagai perwakilannya tiga partai politik terbesar di Indonesia yaitu Golkar, PDIP, dan Gerindra. Pendekatan data mining atau text mining digunakan dalam penelitian ini dan algoritma Naive Bayes digunakan sebagai metode klasifikasi untuk menghasilkan model analisis sentimen. Berdasarkan hasil model analisis sentimen partai politik, diperoleh presisi sebesar 79,5%, recall sebesar 78,5%, dan skor F1 sebesar 79%. Dalam 10-Fold Cross Validation, model mencapai nilai 80%. Sentimen negatif tertinggi ditemukan pada partai PDIP (55%), diikuti oleh Gerindra (26,7%) dan Golkar (18,3%). Hasil dari penelitian ini memberikan wawasan tentang persepsi atau sentimen Twitter terhadap partai politik di Indonesia.
+**Kata kunci** : Analisis Sentimen, Partai Politik, Naive Bayes, Text Processing
